@@ -1,0 +1,5 @@
+*.pyc
+.DS_Store
+logs/
+migrations/
+deploy_config.py
